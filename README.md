@@ -12,7 +12,18 @@ insights and information that can be visualized in a user-friendly manner.
 
 ##Tactics
 
-Data Extraction and Processing: Clone the github to fetch data. Clean the data using Python and Pandas library.
-Database Management: Store data and Retrive data from MySql for efficient analysis and visualization
-Data Visualization: Creating an interactive dashboard using Streamlit and Plotly
-Data Retrival: Updating the dashboard by rapidly retrieving data from the database.
+Data Extraction and Processing:
+
+  Clone the github to fetch data. Clean the data using Python and Pandas library.
+
+Database Management: 
+  
+  Store data and Retrive data from MySql for efficient analysis and visualization
+
+Data Visualization:
+
+  Creating an interactive dashboard using Streamlit and Plotly
+
+Data Retrival: 
+  
+  Updating the dashboard by rapidly retrieving data from the database.
